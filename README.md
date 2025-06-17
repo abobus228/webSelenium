@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mni9ly0rqtj8bjo8?svg=true)](https://ci.appveyor.com/project/abobus228/webselenium)
+[![Build status](https://ci.appveyor.com/api/projects/status/30uabuq4lrjbmsbq?svg=true)](https://ci.appveyor.com/project/abobus228/webselenium)
